@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/lab1/tutorial/tutorial.sim/sim_1/impl/timing/xsim/tutorial_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-311] analyzing module design_1_xup_and2_0_0
+INFO: [VRFC 10-311] analyzing module design_1_xup_and2_1_0
+INFO: [VRFC 10-311] analyzing module design_1_xup_inv_0_0
+INFO: [VRFC 10-311] analyzing module design_1_xup_inv_1_0
+INFO: [VRFC 10-311] analyzing module design_1_xup_or2_0_0
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/lab1/tutorial/tutorial.srcs/sim_1/imports/tutorial/tutorial_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tutorial_tb

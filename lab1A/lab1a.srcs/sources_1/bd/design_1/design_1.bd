@@ -1,0 +1,129 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0xB54517ABB54517AB",
+      "device": "xc7a35tcpg236-1",
+      "gen_directory": "../../../../lab1a.gen/sources_1/bd/design_1",
+      "name": "design_1",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2023.2",
+      "validated": "true"
+    },
+    "design_tree": {
+      "xup_xor2_0": "",
+      "xup_xor2_1": "",
+      "xup_and2_0": "",
+      "xup_and2_1": "",
+      "xup_or2_0": ""
+    },
+    "ports": {
+      "X": {
+        "direction": "I"
+      },
+      "Y": {
+        "direction": "I"
+      },
+      "Z": {
+        "direction": "I"
+      },
+      "OUT1": {
+        "direction": "O"
+      },
+      "OUT2": {
+        "direction": "O"
+      }
+    },
+    "components": {
+      "xup_xor2_0": {
+        "vlnv": "xilinx.com:xup:xup_xor2:1.0",
+        "ip_revision": "1",
+        "xci_name": "design_1_xup_xor2_0_0",
+        "xci_path": "ip\\design_1_xup_xor2_0_0\\design_1_xup_xor2_0_0.xci",
+        "inst_hier_path": "xup_xor2_0"
+      },
+      "xup_xor2_1": {
+        "vlnv": "xilinx.com:xup:xup_xor2:1.0",
+        "ip_revision": "1",
+        "xci_name": "design_1_xup_xor2_1_0",
+        "xci_path": "ip\\design_1_xup_xor2_1_0\\design_1_xup_xor2_1_0.xci",
+        "inst_hier_path": "xup_xor2_1"
+      },
+      "xup_and2_0": {
+        "vlnv": "xilinx.com:xup:xup_and2:1.0",
+        "ip_revision": "1",
+        "xci_name": "design_1_xup_and2_0_0",
+        "xci_path": "ip\\design_1_xup_and2_0_0\\design_1_xup_and2_0_0.xci",
+        "inst_hier_path": "xup_and2_0"
+      },
+      "xup_and2_1": {
+        "vlnv": "xilinx.com:xup:xup_and2:1.0",
+        "ip_revision": "1",
+        "xci_name": "design_1_xup_and2_1_0",
+        "xci_path": "ip\\design_1_xup_and2_1_0\\design_1_xup_and2_1_0.xci",
+        "inst_hier_path": "xup_and2_1"
+      },
+      "xup_or2_0": {
+        "vlnv": "xilinx.com:xup:xup_or2:1.0",
+        "ip_revision": "1",
+        "xci_name": "design_1_xup_or2_0_0",
+        "xci_path": "ip\\design_1_xup_or2_0_0\\design_1_xup_or2_0_0.xci",
+        "inst_hier_path": "xup_or2_0"
+      }
+    },
+    "nets": {
+      "X_1": {
+        "ports": [
+          "X",
+          "xup_xor2_0/a",
+          "xup_and2_0/b"
+        ]
+      },
+      "Y_1": {
+        "ports": [
+          "Y",
+          "xup_xor2_0/b",
+          "xup_and2_0/a"
+        ]
+      },
+      "b_1_1": {
+        "ports": [
+          "Z",
+          "xup_and2_1/b",
+          "xup_xor2_1/b"
+        ]
+      },
+      "xup_and2_0_y": {
+        "ports": [
+          "xup_and2_0/y",
+          "xup_or2_0/a"
+        ]
+      },
+      "xup_and2_1_y": {
+        "ports": [
+          "xup_and2_1/y",
+          "xup_or2_0/b"
+        ]
+      },
+      "xup_or2_0_y": {
+        "ports": [
+          "xup_or2_0/y",
+          "OUT2"
+        ]
+      },
+      "xup_xor2_0_y": {
+        "ports": [
+          "xup_xor2_0/y",
+          "xup_xor2_1/a",
+          "xup_and2_1/a"
+        ]
+      },
+      "xup_xor2_1_y": {
+        "ports": [
+          "xup_xor2_1/y",
+          "OUT1"
+        ]
+      }
+    }
+  }
+}
