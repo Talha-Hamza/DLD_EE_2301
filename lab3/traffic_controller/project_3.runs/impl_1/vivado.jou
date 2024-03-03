@@ -3,8 +3,8 @@
 # SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
 # IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
 # SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
-# Start of session at: Tue Feb 27 13:21:17 2024
-# Process ID: 23060
+# Start of session at: Sun Mar  3 17:31:53 2024
+# Process ID: 10872
 # Current directory: C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/lab3/traffic_controller/project_3.runs/impl_1
 # Command line: vivado.exe -log TrafficLightController.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TrafficLightController.tcl -notrace
 # Log file: C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/lab3/traffic_controller/project_3.runs/impl_1/TrafficLightController.vdi

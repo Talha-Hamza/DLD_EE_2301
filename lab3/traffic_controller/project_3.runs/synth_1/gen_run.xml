@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1709060451" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/TrafficLightController.dcp">
+<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1709508653" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/TrafficLightController.dcp">
   <File Type="PA-TCL" Name="TrafficLightController.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="TrafficLightController_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="TrafficLightController_reports.tcl"/>
@@ -35,6 +35,7 @@
       </FileInfo>
     </File>
     <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/imports/Downloads/Basys3_Master.xdc"/>
       <Option Name="ConstrsType" Val="XDC"/>
     </Config>
   </FileSet>

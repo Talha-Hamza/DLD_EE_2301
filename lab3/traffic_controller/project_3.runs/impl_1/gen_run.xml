@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1709060536">
-  <File Type="OPT-HWDEF" Name="TrafficLightController.hwdef"/>
-  <File Type="ROUTE-BUS-SKEW" Name="TrafficLightController_bus_skew_routed.rpt"/>
-  <File Type="PA-DCP" Name="TrafficLightController.dcp"/>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1709508653">
   <File Type="ROUTE-PWR" Name="TrafficLightController_power_routed.rpt"/>
   <File Type="PA-TCL" Name="TrafficLightController.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="TrafficLightController_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="TrafficLightController_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="TrafficLightController_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="TrafficLightController.mmi"/>
   <File Type="OPT-METHODOLOGY-DRC" Name="TrafficLightController_methodology_drc_opted.rpt"/>
   <File Type="INIT-TIMING" Name="TrafficLightController_timing_summary_init.rpt"/>
-  <File Type="ROUTE-PWR-SUM" Name="TrafficLightController_power_summary_routed.pb"/>
-  <File Type="OPT-RQA-PB" Name="TrafficLightController_rqa_opted.pb"/>
-  <File Type="REPORTS-TCL" Name="TrafficLightController_reports.tcl"/>
   <File Type="OPT-TIMING" Name="TrafficLightController_timing_summary_opted.rpt"/>
   <File Type="OPT-DCP" Name="TrafficLightController_opt.dcp"/>
   <File Type="OPT-DRC" Name="TrafficLightController_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="TrafficLightController.hwdef"/>
   <File Type="PWROPT-DCP" Name="TrafficLightController_pwropt.dcp"/>
   <File Type="PWROPT-DRC" Name="TrafficLightController_drc_pwropted.rpt"/>
   <File Type="PWROPT-TIMING" Name="TrafficLightController_timing_summary_pwropted.rpt"/>
@@ -52,6 +51,7 @@
   <File Type="ROUTE-TIMING-RPX" Name="TrafficLightController_timing_summary_routed.rpx"/>
   <File Type="ROUTE-SIMILARITY" Name="TrafficLightController_incremental_reuse_routed.rpt"/>
   <File Type="ROUTE-CLK" Name="TrafficLightController_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="TrafficLightController_bus_skew_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW-PB" Name="TrafficLightController_bus_skew_routed.pb"/>
   <File Type="ROUTE-BUS-SKEW-RPX" Name="TrafficLightController_bus_skew_routed.rpx"/>
   <File Type="POSTROUTE-PHYSOPT-DCP" Name="TrafficLightController_postroute_physopt.dcp"/>
@@ -65,7 +65,6 @@
   <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="TrafficLightController_bus_skew_postroute_physopted.rpx"/>
   <File Type="BITSTR-NKY" Name="TrafficLightController.nky"/>
   <File Type="BITSTR-BMM" Name="TrafficLightController_bd.bmm"/>
-  <File Type="BITSTR-MMI" Name="TrafficLightController.mmi"/>
   <File Type="PDI-FILE" Name="TrafficLightController.pdi"/>
   <File Type="BOOT-PDI-FILE" Name="TrafficLightController_boot.pdi"/>
   <File Type="PL-PDI-FILE" Name="TrafficLightController_pld.pdi"/>
@@ -111,6 +110,7 @@
       </FileInfo>
     </File>
     <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/imports/Downloads/Basys3_Master.xdc"/>
       <Option Name="ConstrsType" Val="XDC"/>
     </Config>
   </FileSet>

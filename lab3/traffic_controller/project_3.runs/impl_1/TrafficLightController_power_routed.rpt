@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
-| Date             : Tue Feb 27 13:03:29 2024
+| Date             : Sun Mar  3 17:33:06 2024
 | Host             : DESKTOP-2RCNUVR running 64-bit major release  (build 9200)
 | Command          : report_power -file TrafficLightController_power_routed.rpt -pb TrafficLightController_power_summary_routed.pb -rpx TrafficLightController_power_routed.rpx
 | Design           : TrafficLightController
@@ -30,14 +30,14 @@ Table of Contents
 ----------
 
 +--------------------------+--------------+
-| Total On-Chip Power (W)  | 4.683        |
+| Total On-Chip Power (W)  | 6.890        |
 | Design Power Budget (W)  | Unspecified* |
 | Power Budget Margin (W)  | NA           |
-| Dynamic (W)              | 4.595        |
-| Device Static (W)        | 0.088        |
+| Dynamic (W)              | 6.787        |
+| Device Static (W)        | 0.103        |
 | Effective TJA (C/W)      | 5.0          |
-| Max Ambient (C)          | 61.6         |
-| Junction Temperature (C) | 48.4         |
+| Max Ambient (C)          | 50.6         |
+| Junction Temperature (C) | 59.4         |
 | Confidence Level         | Low          |
 | Setting File             | ---          |
 | Simulation Activity File | ---          |
@@ -52,12 +52,12 @@ Table of Contents
 +----------------+-----------+----------+-----------+-----------------+
 | On-Chip        | Power (W) | Used     | Available | Utilization (%) |
 +----------------+-----------+----------+-----------+-----------------+
-| Slice Logic    |     0.013 |        6 |       --- |             --- |
-|   LUT as Logic |     0.013 |        3 |     20800 |            0.01 |
-| Signals        |     0.073 |        9 |       --- |             --- |
-| I/O            |     4.509 |        9 |       106 |            8.49 |
-| Static Power   |     0.088 |          |           |                 |
-| Total          |     4.683 |          |           |                 |
+| Slice Logic    |     0.016 |        6 |       --- |             --- |
+|   LUT as Logic |     0.016 |        3 |     20800 |            0.01 |
+| Signals        |     0.076 |        9 |       --- |             --- |
+| I/O            |     6.695 |       12 |       106 |           11.32 |
+| Static Power   |     0.103 |          |           |                 |
+| Total          |     6.890 |          |           |                 |
 +----------------+-----------+----------+-----------+-----------------+
 
 
@@ -67,16 +67,16 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) | Powerup (A) | Budget (A)  | Margin (A) |
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
-| Vccint    |       1.000 |     0.120 |       0.097 |      0.023 |       NA    | Unspecified | NA         |
-| Vccaux    |       1.800 |     0.179 |       0.165 |      0.014 |       NA    | Unspecified | NA         |
-| Vcco33    |       3.300 |     1.274 |       1.273 |      0.001 |       NA    | Unspecified | NA         |
+| Vccint    |       1.000 |     0.139 |       0.104 |      0.036 |       NA    | Unspecified | NA         |
+| Vccaux    |       1.800 |     0.260 |       0.245 |      0.015 |       NA    | Unspecified | NA         |
+| Vcco33    |       3.300 |     1.893 |       1.892 |      0.001 |       NA    | Unspecified | NA         |
 | Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vcco18    |       1.800 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vcco15    |       1.500 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vcco135   |       1.350 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vcco12    |       1.200 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vccaux_io |       1.800 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
-| Vccbram   |       1.000 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vccbram   |       1.000 |     0.001 |       0.000 |      0.001 |       NA    | Unspecified | NA         |
 | MGTAVcc   |       1.000 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | MGTAVtt   |       1.200 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vccadc    |       1.800 |     0.020 |       0.000 |      0.020 |       NA    | Unspecified | NA         |
@@ -134,7 +134,7 @@ Table of Contents
 +------------------------+-----------+
 | Name                   | Power (W) |
 +------------------------+-----------+
-| TrafficLightController |     4.595 |
+| TrafficLightController |     6.787 |
 +------------------------+-----------+
 
 
