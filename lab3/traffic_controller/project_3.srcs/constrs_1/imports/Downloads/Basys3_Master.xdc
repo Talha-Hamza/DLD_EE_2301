@@ -11,16 +11,20 @@
 ## Switches
 set_property PACKAGE_PIN R2 [get_ports {C2}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {C2}]
+	
 set_property PACKAGE_PIN T1 [get_ports {C1}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {C1}]
+	
 set_property PACKAGE_PIN U1 [get_ports {C0}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {C0}]
 
 ## LEDs
 set_property PACKAGE_PIN L1 [get_ports {led[2]}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {led[2]}]
+	
 set_property PACKAGE_PIN P1 [get_ports {led[1]}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {led[1]}]
+	
 set_property PACKAGE_PIN N3 [get_ports {led[0]}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {led[0]}]
 	
@@ -32,7 +36,6 @@ set_property PACKAGE_PIN W3 [get_ports {Y1}]
 	
 set_property PACKAGE_PIN V3 [get_ports {R1}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {R1}]
-	
 	
 set_property PACKAGE_PIN V13 [get_ports {G2}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {G2}]

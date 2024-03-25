@@ -4,67 +4,60 @@
   <File Type="PA-TCL" Name="TrafficLightController.tcl"/>
   <File Type="ROUTE-PWR-SUM" Name="TrafficLightController_power_summary_routed.pb"/>
   <File Type="REPORTS-TCL" Name="TrafficLightController_reports.tcl"/>
-  <File Type="OPT-RQA-PB" Name="TrafficLightController_rqa_opted.pb"/>
+  <File Type="BITSTR-MSK" Name="TrafficLightController.msk"/>
+  <File Type="ROUTE-CLK" Name="TrafficLightController_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="TrafficLightController.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="TrafficLightController_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="TrafficLightController.bit"/>
+  <File Type="BG-DRC" Name="TrafficLightController.drc"/>
+  <File Type="BG-BGN" Name="TrafficLightController.bgn"/>
+  <File Type="BG-BIN" Name="TrafficLightController.bin"/>
+  <File Type="BITSTR-RBT" Name="TrafficLightController.rbt"/>
+  <File Type="BITSTR-NKY" Name="TrafficLightController.nky"/>
+  <File Type="BITSTR-BMM" Name="TrafficLightController_bd.bmm"/>
   <File Type="BITSTR-MMI" Name="TrafficLightController.mmi"/>
-  <File Type="OPT-METHODOLOGY-DRC" Name="TrafficLightController_methodology_drc_opted.rpt"/>
-  <File Type="INIT-TIMING" Name="TrafficLightController_timing_summary_init.rpt"/>
-  <File Type="OPT-TIMING" Name="TrafficLightController_timing_summary_opted.rpt"/>
-  <File Type="OPT-DCP" Name="TrafficLightController_opt.dcp"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="TrafficLightController_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="TrafficLightController.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="TrafficLightController.ltx"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <File Type="OPT-DRC" Name="TrafficLightController_drc_opted.rpt"/>
   <File Type="OPT-HWDEF" Name="TrafficLightController.hwdef"/>
-  <File Type="PWROPT-DCP" Name="TrafficLightController_pwropt.dcp"/>
-  <File Type="PWROPT-DRC" Name="TrafficLightController_drc_pwropted.rpt"/>
-  <File Type="PWROPT-TIMING" Name="TrafficLightController_timing_summary_pwropted.rpt"/>
-  <File Type="PLACE-DCP" Name="TrafficLightController_placed.dcp"/>
   <File Type="PLACE-IO" Name="TrafficLightController_io_placed.rpt"/>
-  <File Type="PLACE-CLK" Name="TrafficLightController_clock_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL" Name="TrafficLightController_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL-PB" Name="TrafficLightController_utilization_placed.pb"/>
   <File Type="PLACE-CTRL" Name="TrafficLightController_control_sets_placed.rpt"/>
-  <File Type="PLACE-SIMILARITY" Name="TrafficLightController_incremental_reuse_placed.rpt"/>
   <File Type="PLACE-PRE-SIMILARITY" Name="TrafficLightController_incremental_reuse_pre_placed.rpt"/>
-  <File Type="BG-BIN" Name="TrafficLightController.bin"/>
-  <File Type="PLACE-TIMING" Name="TrafficLightController_timing_summary_placed.rpt"/>
-  <File Type="ROUTE-PWR-RPX" Name="TrafficLightController_power_routed.rpx"/>
-  <File Type="PLACE-RQA-PB" Name="TrafficLightController_rqa_placed.pb"/>
-  <File Type="POSTPLACE-PWROPT-DCP" Name="TrafficLightController_postplace_pwropt.dcp"/>
-  <File Type="BITSTR-MSK" Name="TrafficLightController.msk"/>
-  <File Type="POSTPLACE-PWROPT-TIMING" Name="TrafficLightController_timing_summary_postplace_pwropted.rpt"/>
-  <File Type="PHYSOPT-DCP" Name="TrafficLightController_physopt.dcp"/>
-  <File Type="PHYSOPT-DRC" Name="TrafficLightController_drc_physopted.rpt"/>
-  <File Type="BITSTR-RBT" Name="TrafficLightController.rbt"/>
-  <File Type="PHYSOPT-TIMING" Name="TrafficLightController_timing_summary_physopted.rpt"/>
-  <File Type="ROUTE-ERROR-DCP" Name="TrafficLightController_routed_error.dcp"/>
-  <File Type="ROUTE-DCP" Name="TrafficLightController_routed.dcp"/>
-  <File Type="ROUTE-BLACKBOX-DCP" Name="TrafficLightController_routed_bb.dcp"/>
   <File Type="ROUTE-DRC" Name="TrafficLightController_drc_routed.rpt"/>
   <File Type="ROUTE-DRC-PB" Name="TrafficLightController_drc_routed.pb"/>
-  <File Type="ROUTE-DRC-RPX" Name="TrafficLightController_drc_routed.rpx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC" Name="TrafficLightController_methodology_drc_routed.rpt"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="TrafficLightController_methodology_drc_routed.rpx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="TrafficLightController_methodology_drc_routed.pb"/>
-  <File Type="ROUTE-RQS-PB" Name="TrafficLightController_rqs_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="TrafficLightController_power_routed.rpx"/>
   <File Type="ROUTE-STATUS" Name="TrafficLightController_route_status.rpt"/>
   <File Type="ROUTE-STATUS-PB" Name="TrafficLightController_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="TrafficLightController_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="TrafficLightController_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="TrafficLightController_routed_bb.dcp"/>
   <File Type="ROUTE-TIMINGSUMMARY" Name="TrafficLightController_timing_summary_routed.rpt"/>
   <File Type="ROUTE-TIMING-PB" Name="TrafficLightController_timing_summary_routed.pb"/>
   <File Type="ROUTE-TIMING-RPX" Name="TrafficLightController_timing_summary_routed.rpx"/>
   <File Type="ROUTE-SIMILARITY" Name="TrafficLightController_incremental_reuse_routed.rpt"/>
-  <File Type="ROUTE-CLK" Name="TrafficLightController_clock_utilization_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW" Name="TrafficLightController_bus_skew_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW-PB" Name="TrafficLightController_bus_skew_routed.pb"/>
   <File Type="ROUTE-BUS-SKEW-RPX" Name="TrafficLightController_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="TrafficLightController_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="TrafficLightController_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="TrafficLightController_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="TrafficLightController_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="TrafficLightController_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-DCP" Name="TrafficLightController_postroute_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="TrafficLightController_postroute_physopt_bb.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-TIMING" Name="TrafficLightController_timing_summary_postroute_physopted.rpt"/>
   <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="TrafficLightController_timing_summary_postroute_physopted.pb"/>
   <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="TrafficLightController_timing_summary_postroute_physopted.rpx"/>
   <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="TrafficLightController_bus_skew_postroute_physopted.rpt"/>
-  <File Type="BG-BIT" Name="TrafficLightController.bit"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="TrafficLightController_bus_skew_postroute_physopted.pb"/>
   <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="TrafficLightController_bus_skew_postroute_physopted.rpx"/>
-  <File Type="BITSTR-NKY" Name="TrafficLightController.nky"/>
-  <File Type="BITSTR-BMM" Name="TrafficLightController_bd.bmm"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="TrafficLightController_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="TrafficLightController_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="TrafficLightController_methodology_drc_routed.rpx"/>
   <File Type="PDI-FILE" Name="TrafficLightController.pdi"/>
   <File Type="BOOT-PDI-FILE" Name="TrafficLightController_boot.pdi"/>
   <File Type="PL-PDI-FILE" Name="TrafficLightController_pld.pdi"/>
@@ -73,13 +66,6 @@
   <File Type="RNPI_FILE" Name="TrafficLightController.rnpi"/>
   <File Type="NPI_FILE" Name="TrafficLightController.npi"/>
   <File Type="RBD_FILE" Name="TrafficLightController.rbd"/>
-  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
-  <File Type="BITSTR-LTX" Name="TrafficLightController.ltx"/>
-  <File Type="BITSTR-SYSDEF" Name="TrafficLightController.sysdef"/>
-  <File Type="BG-BGN" Name="TrafficLightController.bgn"/>
-  <File Type="BG-DRC" Name="TrafficLightController.drc"/>
-  <File Type="RDI-RDI" Name="TrafficLightController.vdi"/>
-  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <File Type="ROUTE-RQS" Name="TrafficLightController_routed.rqs"/>
   <File Type="POSTROUTE-PHYSOPT-RQS" Name="TrafficLightController_postroute_physopted.rqs"/>
   <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
@@ -129,9 +115,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023">
-      <Desc>Default settings for Implementation.</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
     <Step Id="init_design"/>
     <Step Id="opt_design"/>
     <Step Id="power_opt_design"/>
@@ -143,5 +127,6 @@
     <Step Id="write_bitstream">
       <Option Id="BinFile">1</Option>
     </Step>
+    <Step Id="write_device_image"/>
   </Strategy>
 </GenRun>
