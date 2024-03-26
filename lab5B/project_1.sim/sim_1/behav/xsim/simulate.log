@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time=0, A=100, B=101, Sum=xxx, Cout=x
+Time=5000, A=100, B=101, Sum=001, Cout=0
+Time=15000, A=100, B=101, Sum=001, Cout=1
+Time=100000, A=100, B=101, Sum=000, Cout=0
+$finish called at time : 200 ns : File "C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/lab5B/project_1.srcs/sim_1/new/lab6_tb.v" Line 39
