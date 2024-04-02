@@ -31,6 +31,7 @@ end
 
 // Stimulus
 initial begin
+    #50;
     RESET = 1; // Start with reset asserted
     
     InputNumber = 8'b10010010; // Example input number
