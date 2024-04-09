@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+29,true,"C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/quiz5/project_1.srcs/sim_1/new/tb_file.v"
