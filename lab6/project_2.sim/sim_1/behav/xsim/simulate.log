@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Time=0 multiplicand=1111, multiplier=1111, accumulator=xxxxxxxxx, product=xxxxxxxx
+Time=0 multiplicand=1111, multiplier=1111, accumulator=xxxxxxxxx, product=00000000
+Time=0 multiplicand=1111, multiplier=1111, accumulator=000000000, product=00000000
