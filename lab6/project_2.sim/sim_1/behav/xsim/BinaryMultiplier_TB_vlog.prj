@@ -1,5 +1,6 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/multiplier.v" \
 "../../../../project_2.srcs/sim_1/new/multiplier_tb.v" \
 
 # compile glbl module

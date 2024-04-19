@@ -2,44 +2,55 @@
 
 module BinaryMultiplier_TB;
 
-    // Inputs
-    reg [3:0] multiplicand_tb;
-    reg [3:0] multiplier_tb;
-    reg start;
-    reg CLK;
+  // Signals
+  reg CLK;
+  reg reset;
+  reg [7:0] multiplier;
+  reg [7:0] multiplicand;
+  wire [15:0] product;
+  wire [15:0] accumulator;
+  wire [15:0] multc_shifter;
+  wire [7:0] count;
 
-    // Outputs
-    wire [8:0] accumulator_tb;
-    wire [7:0] product_tb;
+  // Instantiate the module
+  BinaryMultiplier dut (
+    .CLK(CLK),
+    .reset(reset),
+    .product(product),
+    .accumulator(accumulator),
+    .multiplicand(multiplicand),
+    .multiplier(multiplier),
+    .multc_shifter(multc_shifter),
+    .count(count)
+  );
 
-    // Instantiate the module
-    BinaryMultiplier dut (
-        .multiplicand(multiplicand_tb),
-        .multiplier(multiplier_tb),
-        .accumulator(accumulator_tb),
-        .product(product_tb),
-        .start(start),
-        .clock(CLK)
-    );
-
-    // Testbench behavior
-    initial begin
-        CLK = 1;
-        forever #25 CLK = ~CLK; // Toggle every 25 ns for a 50 ns period
-    end
+  // Clock generation
+  initial begin
+    CLK = 0;
+    forever #5 CLK = ~CLK;
+  end
+  
+always @(posedge CLK) begin
+//    #10 $display("Multiplier: %b", multiplier);
+//    $display("Multiplicand: %b", multiplicand);
+//    $display("start: %b", start);
+//    $display("Multplicand shifter: %b", multc_shifter);
+    $display("Count: %b", count);
+    // Display outputs in binary
+//    $display("Product: %b", product);
+    $display("Accumulator: %b", accumulator);
     
-    // Initialize inputs
-    initial begin
-        multiplicand_tb = 4'b1111; 
-        multiplier_tb = 4'b1111;   
-        start = 1;
-        
-        #10; // Wait for some time to stabilize signals before displaying
-    end
-    
-    // Display outputs
-    always @(*) begin
-        $display("Time=%0t multiplicand=%b, multiplier=%b, accumulator=%b, product=%b", $time, multiplicand_tb, multiplier_tb, accumulator_tb, product_tb);
-    end
+end
+
+
+  // Stimulus
+  initial begin
+    // Initialize inputs in binary
+    multiplicand = 8'b00000011;
+    multiplier = 8'b00000011;
+    reset = 1;
+    #10 reset = 0; 
+
+  end
 
 endmodule
