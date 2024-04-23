@@ -2,3 +2,4 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Hamza/Documents/UMN-EE-cou
 INFO: [VRFC 10-311] analyzing module BinaryMultiplier
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/lab6/project_2.srcs/sim_1/new/multiplier_tb.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module BinaryMultiplier_TB
+WARNING: [VRFC 10-8956] extra semicolon is not allowed here in this dialect; use SystemVerilog mode instead [C:/Users/Hamza/Documents/UMN-EE-coursework/Spring 2024/EE 2301/labs/lab6/project_2.srcs/sim_1/new/multiplier_tb.v:11]

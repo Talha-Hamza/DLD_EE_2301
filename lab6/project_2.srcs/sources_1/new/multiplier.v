@@ -63,8 +63,6 @@ always @(posedge CLK) begin
     3'b110: begin  // Final shift and store product
       product <= accumulator; // Product is ready
       end
-      
-    
   endcase
 end
 
