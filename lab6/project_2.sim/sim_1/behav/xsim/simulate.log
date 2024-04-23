@@ -1,303 +1,352 @@
 Time resolution is 1 ps
-Count: xxxxxxxx
-Accumulator: xxxxxxxxxxxxxxxx
-Resetting
-Multiplicand: 0000000000000000
-Count: 11111111
+Multplicand shifter: xxxxxxxxxxxxxxxx
+Count: 000
+Product:     0
+Accumulator: 0000000000000000
+Multplicand shifter: 0000010100000000
+Count: 000
+Product:     0
 Accumulator: 0000000000000011
-Count: 11111111
+checking bit: 1
+Multplicand shifter: 0000010100000000
+Count: 000
+Product:     0
 Accumulator: 0000000000000011
-At Initial State
-Count: 11111111
-Accumulator: 0000000000000011
-At Initial State
-Count: 11111111
-Accumulator: 0000000000000011
-At State 1
-Count: 11111111
-Accumulator: 0000001100000011
-At State 1
-Count: 11111111
-Accumulator: 0000011000000011
-At State 2
-Count: 01111111
-Accumulator: 0000001100000001
-At State 2
-Count: 00111111
-Accumulator: 0000000110000000
-At State 3
-Count: 00111111
-Accumulator: 0000000110000000
-At State 3
-Count: 00111111
-Accumulator: 0000000110000000
-At Initial State
-Count: 00111111
-Accumulator: 0000000110000000
-At Initial State
-Count: 00111111
-Accumulator: 0000000110000000
-At State 2
-Count: 00011111
-Accumulator: 0000000011000000
-At State 2
-Count: 00001111
-Accumulator: 0000000001100000
-At State 3
-Count: 00001111
-Accumulator: 0000000001100000
-At State 3
-Count: 00001111
-Accumulator: 0000000001100000
-At Initial State
-Count: 00001111
-Accumulator: 0000000001100000
-At Initial State
-Count: 00001111
-Accumulator: 0000000001100000
-At State 2
-Count: 00000111
-Accumulator: 0000000000110000
-At State 2
-Count: 00000011
-Accumulator: 0000000000011000
-At State 3
-Count: 00000011
-Accumulator: 0000000000011000
-At State 3
-Count: 00000011
-Accumulator: 0000000000011000
-At Initial State
-Count: 00000011
-Accumulator: 0000000000011000
-At Initial State
-Count: 00000011
-Accumulator: 0000000000011000
-At State 2
-Count: 00000001
-Accumulator: 0000000000001100
-At State 2
-Count: 00000000
-Accumulator: 0000000000000110
-At State 3
-Count: 00000000
-Accumulator: 0000000000000110
-At State 3
-Count: 00000000
-Accumulator: 0000000000000110
-At State 4
-Official Product    0
-Count: 00000000
-Accumulator: 0000000000000110
-At State 4
-Official Product    6
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
-Count: 00000000
-Accumulator: 0000000000000110
-Holding All Current Values
+Multplicand shifter: 0000010100000000
+Count: 000
+Product:     0
+Accumulator: 0000010100000011
+Multplicand shifter: 0000010100000000
+Count: 001
+Product:     0
+Accumulator: 0000001010000001
+Multplicand shifter: 0000010100000000
+Count: 001
+Product:     0
+Accumulator: 0000001010000001
+checking bit: 1
+Multplicand shifter: 0000010100000000
+Count: 001
+Product:     0
+Accumulator: 0000001010000001
+Multplicand shifter: 0000010100000000
+Count: 001
+Product:     0
+Accumulator: 0000011110000001
+Multplicand shifter: 0000010100000000
+Count: 010
+Product:     0
+Accumulator: 0000001111000000
+Multplicand shifter: 0000010100000000
+Count: 010
+Product:     0
+Accumulator: 0000001111000000
+checking bit: 0
+Multplicand shifter: 0000010100000000
+Count: 010
+Product:     0
+Accumulator: 0000001111000000
+Multplicand shifter: 0000010100000000
+Count: 011
+Product:     0
+Accumulator: 0000000111100000
+Multplicand shifter: 0000010100000000
+Count: 011
+Product:     0
+Accumulator: 0000000111100000
+checking bit: 0
+Multplicand shifter: 0000010100000000
+Count: 011
+Product:     0
+Accumulator: 0000000111100000
+Multplicand shifter: 0000010100000000
+Count: 100
+Product:     0
+Accumulator: 0000000011110000
+Multplicand shifter: 0000010100000000
+Count: 100
+Product:     0
+Accumulator: 0000000011110000
+checking bit: 0
+Multplicand shifter: 0000010100000000
+Count: 100
+Product:     0
+Accumulator: 0000000011110000
+Multplicand shifter: 0000010100000000
+Count: 101
+Product:     0
+Accumulator: 0000000001111000
+Multplicand shifter: 0000010100000000
+Count: 101
+Product:     0
+Accumulator: 0000000001111000
+checking bit: 0
+Multplicand shifter: 0000010100000000
+Count: 101
+Product:     0
+Accumulator: 0000000001111000
+Multplicand shifter: 0000010100000000
+Count: 110
+Product:     0
+Accumulator: 0000000000111100
+Multplicand shifter: 0000010100000000
+Count: 110
+Product:     0
+Accumulator: 0000000000111100
+checking bit: 0
+Multplicand shifter: 0000010100000000
+Count: 110
+Product:     0
+Accumulator: 0000000000111100
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:     0
+Accumulator: 0000000000011110
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:     0
+Accumulator: 0000000000011110
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:     0
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Accumulator: 0000000000001111
+Multplicand shifter: 0000010100000000
+Count: 111
+Product:    15
+Ac

@@ -10,7 +10,7 @@ module BinaryMultiplier_TB;
   wire [15:0] product;
   wire [15:0] accumulator;
   wire [15:0] multc_shifter;
-  wire [7:0] count;
+  wire [2:0] counter;
 
   // Instantiate the module
   BinaryMultiplier dut (
@@ -21,7 +21,7 @@ module BinaryMultiplier_TB;
     .multiplicand(multiplicand),
     .multiplier(multiplier),
     .multc_shifter(multc_shifter),
-    .count(count)
+    .counter(counter)
   );
 
   // Clock generation
@@ -34,10 +34,10 @@ always @(posedge CLK) begin
 //    #10 $display("Multiplier: %b", multiplier);
 //    $display("Multiplicand: %b", multiplicand);
 //    $display("start: %b", start);
-//    $display("Multplicand shifter: %b", multc_shifter);
-    $display("Count: %b", count);
+    $display("Multplicand shifter: %b", multc_shifter);
+    $display("Count: %b", counter);
     // Display outputs in binary
-//    $display("Product: %b", product);
+    $display("Product: %d", product);
     $display("Accumulator: %b", accumulator);
     
 end
@@ -46,10 +46,10 @@ end
   // Stimulus
   initial begin
     // Initialize inputs in binary
-    multiplicand = 8'b00000011;
+    multiplicand = 8'b00000101;
     multiplier = 8'b00000011;
     reset = 1;
-    #10 reset = 0; 
+//    #10 reset = 0; 
 
   end
 
