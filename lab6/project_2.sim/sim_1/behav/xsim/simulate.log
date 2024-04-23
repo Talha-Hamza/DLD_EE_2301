@@ -1,352 +1,58 @@
 Time resolution is 1 ps
-Multplicand shifter: xxxxxxxxxxxxxxxx
-Count: 000
 Product:     0
-Accumulator: 0000000000000000
-Multplicand shifter: 0000010100000000
-Count: 000
 Product:     0
-Accumulator: 0000000000000011
 checking bit: 1
-Multplicand shifter: 0000010100000000
-Count: 000
 Product:     0
-Accumulator: 0000000000000011
-Multplicand shifter: 0000010100000000
-Count: 000
 Product:     0
-Accumulator: 0000010100000011
-Multplicand shifter: 0000010100000000
-Count: 001
 Product:     0
-Accumulator: 0000001010000001
-Multplicand shifter: 0000010100000000
-Count: 001
 Product:     0
-Accumulator: 0000001010000001
 checking bit: 1
-Multplicand shifter: 0000010100000000
-Count: 001
 Product:     0
-Accumulator: 0000001010000001
-Multplicand shifter: 0000010100000000
-Count: 001
 Product:     0
-Accumulator: 0000011110000001
-Multplicand shifter: 0000010100000000
-Count: 010
 Product:     0
-Accumulator: 0000001111000000
-Multplicand shifter: 0000010100000000
-Count: 010
 Product:     0
-Accumulator: 0000001111000000
-checking bit: 0
-Multplicand shifter: 0000010100000000
-Count: 010
+checking bit: 1
 Product:     0
-Accumulator: 0000001111000000
-Multplicand shifter: 0000010100000000
-Count: 011
 Product:     0
-Accumulator: 0000000111100000
-Multplicand shifter: 0000010100000000
-Count: 011
 Product:     0
-Accumulator: 0000000111100000
-checking bit: 0
-Multplicand shifter: 0000010100000000
-Count: 011
 Product:     0
-Accumulator: 0000000111100000
-Multplicand shifter: 0000010100000000
-Count: 100
+checking bit: 1
 Product:     0
-Accumulator: 0000000011110000
-Multplicand shifter: 0000010100000000
-Count: 100
 Product:     0
-Accumulator: 0000000011110000
-checking bit: 0
-Multplicand shifter: 0000010100000000
-Count: 100
 Product:     0
-Accumulator: 0000000011110000
-Multplicand shifter: 0000010100000000
-Count: 101
 Product:     0
-Accumulator: 0000000001111000
-Multplicand shifter: 0000010100000000
-Count: 101
+checking bit: 1
 Product:     0
-Accumulator: 0000000001111000
-checking bit: 0
-Multplicand shifter: 0000010100000000
-Count: 101
 Product:     0
-Accumulator: 0000000001111000
-Multplicand shifter: 0000010100000000
-Count: 110
 Product:     0
-Accumulator: 0000000000111100
-Multplicand shifter: 0000010100000000
-Count: 110
 Product:     0
-Accumulator: 0000000000111100
-checking bit: 0
-Multplicand shifter: 0000010100000000
-Count: 110
+checking bit: 1
 Product:     0
-Accumulator: 0000000000111100
-Multplicand shifter: 0000010100000000
-Count: 111
 Product:     0
-Accumulator: 0000000000011110
-Multplicand shifter: 0000010100000000
-Count: 111
 Product:     0
-Accumulator: 0000000000011110
-Multplicand shifter: 0000010100000000
-Count: 111
 Product:     0
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Accumulator: 0000000000001111
-Multplicand shifter: 0000010100000000
-Count: 111
-Product:    15
-Ac
+checking bit: 1
+Product:     0
+Product:     0
+Product:     0
+Product:     0
+Product:     0
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
+Product:   381
